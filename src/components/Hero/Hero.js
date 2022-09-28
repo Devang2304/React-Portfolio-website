@@ -12,7 +12,7 @@ const Hero = () => (
       My Personal Portfolio
       </SectionTitle>
       <SectionText>
-      I am a Front End Developer with experience building web based projects. One of my biggest strengths is the development and delivering big ideas that amaze people's minds.
+      I am a FullStack Developer with experience building web based projects. One of my biggest strengths is the development and delivering big ideas that amaze people's minds.
       </SectionText>
       <Button onClick={()=>window.location='https://google.com'}>Learn More</Button>
     </LeftSection>
